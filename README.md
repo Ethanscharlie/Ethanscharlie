@@ -1,10 +1,10 @@
 # Introduction 
 
-I'm a self taught developer (current attending collage) who believes in open source software and an open computing world
+I'm a self-taught developer (currently attending college) who believes in open-source software and an open computing world.
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/629447010839166976)
 
-### Proficient Langauges
+### Proficient Languages
 * Python
 * Java
 * C++
