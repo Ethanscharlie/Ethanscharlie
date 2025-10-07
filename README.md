@@ -3,7 +3,7 @@
 I'm a self-taught developer (currently attending college) who believes in open-source software and an open computing world.
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/629447010839166976)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ethan-jeffer-hadley](https://www.linkedin.com/in/ethan-jeffery-hadley/))
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ethan-jeffery-hadley/)
 
 ### Proficient Languages
 * Python
